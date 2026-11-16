@@ -1,0 +1,25 @@
+info:
+  name: Filtrar producto por atributo, valor y operación
+  type: http
+  seq: 1
+
+http:
+  method: GET
+  url: http://localhost:3004/producto?attr=precio&value=100&op=mayor
+  params:
+    - name: attr
+      value: precio
+      type: query
+    - name: value
+      value: "100"
+      type: query
+    - name: op
+      value: mayor
+      type: query
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

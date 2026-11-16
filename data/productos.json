@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nombre": "Teclado mecánico",
+        "precio": 45000,
+        "categoria": "Periféricos",
+        "stock": 15
+    },
+    {
+        "id": 2,
+        "nombre": "Mouse inalámbrico",
+        "precio": 28000,
+        "categoria": "Periféricos",
+        "stock": 32
+    },
+    {
+        "id": 3,
+        "nombre": "Monitor 24 pulgadas",
+        "precio": 180000,
+        "categoria": "Monitores",
+        "stock": 8
+    },
+    {
+        "id": 4,
+        "nombre": "Auriculares Bluetooth",
+        "precio": 55000,
+        "categoria": "Audio",
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "nombre": "Webcam Full HD",
+        "precio": 65000,
+        "categoria": "Cámaras",
+        "stock": 12
+    },
+    {
+        "id": 6,
+        "nombre": "Disco SSD 1TB",
+        "precio": 95000,
+        "categoria": "Almacenamiento",
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "nombre": "Memoria RAM 16GB",
+        "precio": 70000,
+        "categoria": "Componentes",
+        "stock": 18
+    },
+    {
+        "id": 8,
+        "nombre": "Notebook",
+        "precio": 850000,
+        "categoria": "Computadoras",
+        "stock": 5
+    },
+    {
+        "id": 9,
+        "nombre": "Parlante Bluetooth",
+        "precio": 60000,
+        "categoria": "Audio",
+        "stock": 25
+    },
+    {
+        "id": 10,
+        "nombre": "Mousepad grande",
+        "precio": 18000,
+        "categoria": "Accesorios",
+        "stock": 40
+    }
+]
